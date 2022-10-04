@@ -52,3 +52,7 @@ See more AWS Blog posts [here](https://aws.amazon.com/blogs/)
 ## Whitepapares
 * [Ransomware Risk Management on AWS Using the NIST Cyber Security Framework (CSF)](https://docs.aws.amazon.com/whitepapers/latest/ransomware-risk-management-on-aws-using-nist-csf/ransomware-risk-management-on-aws-using-nist-csf.html)
 
+
+## Software & Tools 
+* [The Hive](https://thehive-project.org/)
+* [SOCless](https://twilio-labs.github.io/socless/)
